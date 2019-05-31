@@ -1,0 +1,7 @@
+one page site to start 
+
+Include: 
+
+- header/ navigation bar with links to "Home", "Maisie", "Lavanya", "Ashley" 
+- photo + description of website 
+- own pages to be created based on the "home" template
