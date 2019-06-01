@@ -17,6 +17,7 @@ body {
 
 /* HEADER */
 .navigation {
+  background: #ffffff;
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -108,7 +109,7 @@ body {
 
 .slideshow {
   width: 75%;
-  margin: auto;
+  margin: 50px auto;
   border: 5px solid #ccc;
   position: relative;
 }
@@ -178,7 +179,7 @@ body {
   cursor: pointer;
   height: 15px;
   width: 15px;
-  margin: 0 2px;
+  margin: 0 2px 70px 2px;
   background-color: #bbb;
   border-radius: 50%;
   display: inline-block;
