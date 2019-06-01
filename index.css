@@ -1,4 +1,35 @@
+html, body{
+    margin: 0px;
+    padding: 0px;
+}
+
+/* HEADER */
+.header{
+    display: flex;
+    background-color: aliceblue;
+    justify-content: space-between;
+}
+
+/* LOGO*/
+.logo{
+    width: 60px;
+    height: 45px;
+    background-color: red;
+}
+
 /* NAVIGATION */
+.navigation li {
+    display: inline-block;
+}
+
+.navigation a {
+    padding: 10px;
+    display: block;
+}
+
+.navigation{
+    margin: 0px;
+}
 
 /* LANDING */
 
