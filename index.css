@@ -77,10 +77,14 @@ body {
 
 .landing--content h1 {
   font-family: "Bitter", serif;
+  color: #d1495b;
+  text-shadow: 0 0 6px #ffffff;
 }
 
 .landing--content h5 {
   font-family: "Scope One", serif;
+  color: #1b2845;
+  text-shadow: 0 0 2px #ffffff;
 }
 
 /* DESCRIPTION */
