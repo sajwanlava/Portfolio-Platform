@@ -33,6 +33,11 @@ body {
 
 /* LANDING */
 
+.animation #animation {
+  position: relative;
+  z-index: -1;
+}
+
 .landing {
   width: 100vh;
   height: 100vh;
@@ -47,14 +52,10 @@ body {
   z-index: 1;
 }
 
-.animation #animation {
-  position: relative;
-  z-index: -1;
-}
-
-.landing .landing--content h1 {
+.landing--content .landing h1 {
   margin: 0;
   padding: 0;
+  max-width: 650px;
 }
 
 /* DESCRIPTION */
