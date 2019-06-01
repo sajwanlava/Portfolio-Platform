@@ -10,9 +10,7 @@ body {
   justify-content: space-between;
   align-items: center;
   font-size: 20px;
-  background-color: #9ac9e6;
   position: relative;
-  z-index: 999;
 }
 
 /* NAVIGATION */
@@ -45,6 +43,7 @@ body {
   color: white;
   position: relative;
   z-index: 1;
+  text-align: center;
 }
 
 .animation #animation {
@@ -71,6 +70,7 @@ body {
   background: #1b2845;
   text-align: center;
   padding-left: 0px;
+  z-index: 1;
 }
 
 .footer li {
