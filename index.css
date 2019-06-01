@@ -20,6 +20,7 @@ html, body{
 /* NAVIGATION */
 .navigation li {
     display: inline-block;
+    cursor: pointer;
 }
 
 .navigation a {
@@ -38,3 +39,25 @@ html, body{
 /* SLIDESHOW */
 
 /* FOOTER */
+.footer{
+    position:fixed;
+    left:0px;
+    bottom:0px;
+    height:70px;
+    width:100%;
+    background:#1b2845;
+    text-align: center;
+    padding-left: 0px;
+}
+
+.footer li {
+    display: inline-block;
+    margin: 0px 35px;
+    cursor: pointer;
+}
+
+.footer a{
+    color: #9ac9e6;
+    padding: 10px;
+    display:block;
+}
