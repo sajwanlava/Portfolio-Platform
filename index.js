@@ -133,7 +133,7 @@ function draw() {
   fill(255);
 }
 
-function mouseDragged() {
+function mouseMoved() {
   allParticles.push(new Particle(mouseX, mouseY, maxLevel));
 }
 
